@@ -1,7 +1,7 @@
 {
-  "blogTitle": "Lorem Ipsum",
-  "blogSubtitle": "lorem ipsum",
+  "blogTitle": "Michel Kassis",
+  "blogSubtitle": "Software Engineer",
   "article": {
-    "tableOfContents": true 
+    "tableOfContents": false 
   }
 }
