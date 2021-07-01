@@ -6,9 +6,14 @@ thumbnail: "https://cdn.freebiesupply.com/logos/large/2x/mcgill-university-3-log
 
 **App Description:** Android application to facilitate the simulation of circuits.
     Allowing users to take a picture of a schematic circuit (Hand-drawn/Printed) and detecting all circuit elements and values to then simulate the circuit and generate its netlist.
+
 **Responsible For:**
     -Built Convolutional Neural Network model using Tensorflow(Python) to classify circuit elements. Integrated in app using Java
     -Integrated OpenCV for Object Detection with Tesseract OCR Engine to detect Hand-drawn text and symbols accurately.
+
+**Group Members:** Adrien Sauvestre, Michel Kassis, Max Neverov, Dibbo Ritwik
+
+**Group Supervised by:** Professor Roni Khazaka
 
 **Links**
 App source code:
