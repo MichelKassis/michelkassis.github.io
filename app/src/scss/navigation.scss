@@ -1,37 +1,37 @@
 #top-container {
-  background-color: white;
+  background-color: rgb(0, 0, 0);
   position: fixed;
-  padding-bottom: 5px;
+  padding-bottom: 8px;
   z-index: 999;
 
   h1 {
-    font-size: 24px;
+    font-size: 30px;
     display: inline;
     font-weight: 900;
   }
 
   small {
     display: block;
-    font-size: 13px;
+    font-size: 18px;
     font-weight: 100;
   }
 
   .logo-link {
     span {
-      font-size: 14px;
+      font-size: 18px;
       font-weight: 400; 
     }
 
     &:hover,
     &:focus {
-      color: white;
-      text-shadow: 1px 1px 0 black, -1px 1px 0 black, -1px -1px 0 black, 1px -1px 0 black;
+      color: rgba(189, 23, 23, 0.856);
+      text-shadow: 1px 1px 0 rgb(255, 255, 255), -1px 1px 0 rgb(255, 255, 255), -1px -1px 0 rgb(255, 255, 255), 1px -1px 0 rgb(255, 255, 255);
     }
   }
 
   .info-link:hover,
   .info-link:focus {
-    color: white;
-    background-color: black;
+    color: rgb(255, 255, 255);
+    background-color: rgba(167, 7, 7, 0.596);
   }
 }
