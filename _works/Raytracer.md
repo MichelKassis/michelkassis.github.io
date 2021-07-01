@@ -4,7 +4,7 @@ subtitle: "For Fundamentals of Computer Graphics Course"
 thumbnail: "https://raw.githubusercontent.com/MichelKassis/Computer-Graphics-Course/master/COMP557-A4-Raytracer/TwoSpheresPlane.png"
 ---
 _**Source Code**_
-https://github.com/MichelKassis/Computer-Graphics-Course/tree/master/COMP557-A4-Raytracer
+https://raw.githubusercontent.com/MichelKassis/Computer-Graphics-Course/master/COMP557-A4-Raytracer/MichelRoom.png
 
 **Screenshots**
 
