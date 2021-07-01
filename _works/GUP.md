@@ -4,8 +4,6 @@ subtitle: "2D iPad grappling hook adventure about a fish escaping toxic air (Uni
 thumbnail: "https://img.itch.zone/aW1hZ2UvNTQ5NDUzLzI4NzE5NzgucG5n/original/3Y9LX5.png"
 ---
 
-![](https://github.com/MichelKassis/GUP)
-
 ![](https://img.itch.zone/aW1hZ2UvNTQ5NDUzLzI4NzE5NzgucG5n/original/3Y9LX5.png)
 
 _**GUP**_
